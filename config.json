@@ -1,6 +1,6 @@
 {	
 	"prefix": "multi", 
-	"defaultSessionName": "Nezuko", 
+	"defaultSessionName": "Emilia", 
 	"zeksKey": "uhYmJsPbD01XkOiMGtTy39Wbqzz", 
 	"autoRead": false, 
 	"maxLimit": 35, 
@@ -11,12 +11,12 @@
         "imgUrl": "https://i.ibb.co/b5zB7QC/thumb.jpg",
         "igUrl": "https://instagram.com/not_pxll?utm_medium=copy_link",
         "githubUrl": "https://github.com/dvnz99",
-	"botname": "NEZUKO", 
+	"botname": "EMILIA", 
         "ownername": "Tor II.",
 	"xkey": "70256febcc08b93b", 
         "eztykey": "eztyb",
         "lolkey": "fddc0308293bc944f113ef94", 
         "uhykey": "NdiAFreY1srBjxY",
-	"pack": "Nezuko", 
+	"pack": "Emilia", 
 	"author": "By Tor II."
 }
