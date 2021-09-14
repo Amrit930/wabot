@@ -3,7 +3,7 @@
 	"defaultSessionName": "Emilia", 
 	"zeksKey": "uhYmJsPbD01XkOiMGtTy39Wbqzz", 
 	"autoRead": false, 
-	"maxLimit": 35, 
+	"maxLimit": 25, 
 	"ownerList": ["918709022955@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
         "apiLol": "https://api.lolhuman.xyz",
