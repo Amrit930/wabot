@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot",
+  "name": "nezuko-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -40,7 +40,7 @@
     "type": "git",
     "url": "git+https://github.com/justpiple/whatsapp-bot.git"
   },
-  "author": "ben",
+  "author": "Tor II",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/justpiple/whatsapp-bot/issues"
