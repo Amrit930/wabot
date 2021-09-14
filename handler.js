@@ -1,7 +1,7 @@
 /*
 
 Elios and Ben
-Recode by Akmalz
+Recode by Tor II
 
 */
 
@@ -1494,12 +1494,13 @@ _${formater3(uptime3)}_
 ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
 *⌦ ATTENTION*
 • _Don\'t spam bot_
+• _Call = Block
 • _Sorry if it has a lot of bugs_
-• _You can get the source code of this bot on my github_
+• _You can get the source code of this bot on github_
 • _If you are using whatsapp mod/old version, you can type ${data.prefix}listmenu_
 
 ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
-*⌦ INSTAGRAM*
+*⌦ WHATSAPP*
 _${configs.igUrl}_
 
 *⌦ GITHUB*
@@ -1924,10 +1925,10 @@ case 'audtag':
                         tek = `*「 INSTAGRAM PROFILE 」*	
 					
 *Username:* @${pe.username}
-*Nama:* ${pe.fullname}
-*Pengikut:* ${pe.follower}
-*Mengikuti*: ${pe.following}
-*Deskripsi:* ${pe.bio}
+*Name:* ${pe.fullname}
+*Followers:* ${pe.follower}
+*Followings*: ${pe.following}
+*Bio:* ${pe.bio}
 *Link:* https://instagram.com/${pe.username}
 `
                         Client.sendFileFromUrl(from, pe.profile_pic, 'p.jpg', tek, message)
